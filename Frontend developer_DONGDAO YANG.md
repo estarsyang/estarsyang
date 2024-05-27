@@ -21,7 +21,7 @@ justify-content: space-between; ">
   align-items: center;
   justify-content: space-between; ">
 <p>Frontend engineer/Computer teacher</p>
-<p>N07/2023 – now</p>
+<p>07/2023 – now</p>
 </div>
 
   <ul>
